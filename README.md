@@ -1,0 +1,1 @@
+Next.js 14 template with Next auth using the app router.
